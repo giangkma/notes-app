@@ -1,1 +1,2 @@
-CHAT APP SERVER
+Notes app server
+
